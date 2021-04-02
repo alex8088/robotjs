@@ -1,4 +1,4 @@
-var robotjs = require('./build/Release/robotjs.node');
+var robotjs = require('./lib');
 
 module.exports = robotjs;
 
