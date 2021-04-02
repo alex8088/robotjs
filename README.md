@@ -1,11 +1,13 @@
 forked from [octalmage/robotjs](https://github.com/octalmage/robotjs)
 
-> Use [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) instead of [prebuild-install](https://github.com/prebuild/prebuild-install), Easy to install in [Electron](https://github.com/electron/electron) 
+> Use [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) instead of [prebuild-install](https://github.com/prebuild/prebuild-install), make it easy to install in [Electron](https://github.com/electron/electron) 
 
 
 ```
 npm install @alex/robotjs --build-from-source --runtime=electron --target_arch=ia32 --target=x.x.x --dist-url=https://atom.io/download/electron
 ```
+
+
 
 <p align="center"><img src="https://cldup.com/1ATDf2JMtv.png"></p>
 
