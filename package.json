@@ -1,5 +1,5 @@
 {
-  "name": "@alex/robotjs",
+  "name": "@codeporter/robotjs",
   "version": "0.6.0",
   "description": "Node.js Desktop Automation.",
   "main": "index.js",

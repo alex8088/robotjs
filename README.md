@@ -4,7 +4,7 @@ forked from [octalmage/robotjs](https://github.com/octalmage/robotjs)
 
 
 ```
-npm install @alex/robotjs --build-from-source --runtime=electron --target_arch=ia32 --target=x.x.x --dist-url=https://atom.io/download/electron
+npm install @codeporter/robotjs --build-from-source --runtime=electron --target_arch=ia32 --target=x.x.x --dist-url=https://atom.io/download/electron
 ```
 
 
