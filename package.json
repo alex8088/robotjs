@@ -12,6 +12,7 @@
     "remote_path": "v{version}"
   },
   "scripts": {
+    "test": "node ./test",
     "install": "node-pre-gyp install --fallback-to-build"
   },
   "repository": {
